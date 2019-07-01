@@ -1,11 +1,11 @@
 ---
 title: "FirstSample"
 author: "HG"
-date: "01 07 2019"
+date: "01.07.2019"
 output: html_document
 ---
 
-I changed better 
+I changed something and please notice.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
