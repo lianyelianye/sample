@@ -1,7 +1,7 @@
 ---
 title: "FirstSample"
 author: "HG"
-date: "01 07 2019"
+date: "01.07.2019"
 output: html_document
 ---
 
