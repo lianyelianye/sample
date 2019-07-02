@@ -1,0 +1,15 @@
+1. A “title” section which should at least include: 
+
+    A title (e.g. Homework 1)
+    The authors
+    The date (think of using Sys.time())
+
+A section called “Introduction” where you provide a short summary of the structure of your homework. Moreover, record a short video to introduce your group and include it in your R Markdown document.
+
+A section called “Group Members”. This sections should have one sub-section for each group member in your team. For example, a group with three members should have three biographies in total. Each of these sub-sections (named after each group member) should include small biographies containing at least the following elements:
+
+    A picture of your choice (preferably of yourself). Make sure to include a caption for this image.
+    A paragraph describing your favorite hobby as well as one interesting fact about yourself.
+    Your favorite quote in blockquote format and be sure to reference your quote using BibTex.
+    A table having two columns (first column containing the classes you are following this semester; second column containing the time of these classes).
+
